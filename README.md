@@ -1,4 +1,4 @@
-# Step-by-Step Process to Build Serverless File Sharing Platform
+# Step-by-Step Guide to Build Serverless File Sharing Platform
 
 ### Project Description:
 
@@ -102,4 +102,11 @@ Use Cases:
        ```bash
        curl --location 'https://<api-id>.execute-api.<region>.amazonaws.com/dev/files?fileName=test.txt'
        ```
+  
 
+Link to the video tutorial: https://youtu.be/TkEubrv8gA0
+
+Follow our tutorials here: https://www.youtube.com/@amonkincloud/videos \
+Follow my personal blog here:https://dev.to/yeshwanthlm/ \
+Follow us on Instagram: https://www.instagram.com/amonkincloud/ \
+For queries write to us at: amonkincloud@gmail.com 
